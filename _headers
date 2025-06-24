@@ -1,0 +1,5 @@
+/*
+  X-Robots-Tag: noindex
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:;
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: no-referrer
